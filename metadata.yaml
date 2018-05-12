@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38325
     wikipedia: https://en.wikipedia.org/wiki/Rachilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36528#Monsieur-V-nus
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2011-06-26'
 gutenberg_type: Text
